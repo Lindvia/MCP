@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "cypress-mcp": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/Automation/MCP/Cypress/index.js"]
+    }
+  }
+}
